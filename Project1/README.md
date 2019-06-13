@@ -1,4 +1,6 @@
 # Project1
+This is based on the tutorials by Bucky Roberts on his channel thenewboston on Youtube.  
+[Click here for the Youtube playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
 Start an app (Edit this) 
 
