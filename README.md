@@ -27,3 +27,9 @@ Install Django and Django REST framework into the virtual environment
 pip install django
 pip install djangorestframework
 ```
+Create a directory for your project and enter
+
+```
+mkdir <project-name>
+cd <project-name>
+```
