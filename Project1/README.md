@@ -37,3 +37,11 @@ Quit the server with CONTROL-C.
 
 Navigate to http://127.0.0.1:8000/ and you should see a page that says 'It worked!
 Congratulations on your first Django-powered page' 
+
+Superuser details are: 
+
+```
+username: somansh 
+email: admin@example.com  
+password: password123  
+```
